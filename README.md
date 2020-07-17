@@ -20,7 +20,7 @@ I have a strong passion for creating things that leave a positive impact on peop
 
 Things that aim for something better, and have a valuable meaning in it ✨.
 
-I am quietly confident, curious about new technology,
+I'm curious about new technology and I'm eager to learn more and more,
 
 and I have a strong determination to solve whatever problems in my way.💪
 
