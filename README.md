@@ -59,7 +59,17 @@ besides I love listening to motivational music 🎵
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/1495/PNG/128/visualstudiocodeinsiders_103154.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/atom-128.png"></code>
 
+![DaliaW's github stats](https://github-readme-stats.vercel.app/api?username=DaliaW&show_icons=true&hide_border=true)
 
+**:rocket: My recent projects:**
+
+<a href="https://github.com/DaliaW/PersonalPortfolio">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=PersonalPortfolio" />
+</a>
+
+<a href="https://github.com/DaliaW/Covid19-Tracker">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=Covid19-Tracker" />
+</a>
 
 
 
