@@ -14,7 +14,7 @@
 
 I'm [Dalia Walid!](https://daliawalid.netlify.app/) 🙋‍♀️ from Egypt, a 4th-year computer Engineering student at the German University in Cairo👩‍🎓 
 
-and also a Front End web developer 👩‍💻.
+and also a Web developer 👩‍💻.
 
   <img align="right" alt="GIF" src="https://media3.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47ilya5empiosse8nnjn5p87kbp87iqziik3whzttq&rid=giphy.gif" />
   
