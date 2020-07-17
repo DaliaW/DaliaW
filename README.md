@@ -24,13 +24,27 @@ I enjoy drawing and painting 🎨.
 
 besides I love listening to motivational music 🎵
 
-✍ I’m currently learning React JS 
+- ✍ I’m currently learning React JS 
 
-🔭 I’m currently working on web projects using React JS, CSS and HTML
+- 🔭 I’m currently working on web projects using React JS, CSS and HTML
 
-📫<a href="dalia.hewedy@gmail.com"> If you have any inquiries you can send me an email 
+- 📫<a href="dalia.hewedy@gmail.com"> If you have any inquiries you can send me an email 
   
 </a>
+
+**Languages and Tools:**
+
+<code><img height="30" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png"></code>
+<code><img height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-256.png"></code>
+<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/256/nodejs-256.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699251-icon-24-file-sql-256.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 <!--
 **DaliaW/DaliaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
