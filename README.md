@@ -16,6 +16,14 @@ I'm [Dalia Walid!](https://daliawalid.netlify.app/) 🙋‍♀️ from Egypt, a 
 
 and also a Web developer 👩‍💻.
 
+I have a strong passion for creating things that leave a positive impact on people,
+
+Things that aim for something better, and have a valuable meaning in it ✨.
+
+I am quietly confident, curious about new technology,
+
+and I have a strong determination to solve whatever problems in my way.💪
+
   <img align="right" alt="GIF" src="https://i.imgur.com/PmGDj0m.gif" />
   
 I love developing websites and web applications 💁‍♀️,
