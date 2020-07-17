@@ -16,7 +16,7 @@ I'm [Dalia Walid!](https://daliawalid.netlify.app/) 🙋‍♀️ from Egypt, a 
 
 and also a Web developer 👩‍💻.
 
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47ilya5empiosse8nnjn5p87kbp87iqziik3whzttq&rid=giphy.gif" />
+  <img align="right" alt="GIF" src="https://i.imgur.com/PmGDj0m.gif" />
   
 I love developing websites and web applications 💁‍♀️,
 
