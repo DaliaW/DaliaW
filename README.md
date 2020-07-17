@@ -36,7 +36,7 @@ besides I love listening to motivational music 🎵
 
 - 🔭 I’m currently working on web projects using React JS, CSS and HTML
 
-- 📫<a href="dalia.hewedy@gmail.com"> If you have any inquiries you can send me an email 
+- 📫<a> If you have any inquiries you can send me an email through: dalia.hewedy@gmail.com
   
 </a>
 
