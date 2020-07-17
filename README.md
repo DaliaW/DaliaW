@@ -44,6 +44,16 @@ besides I love listening to motivational music 🎵
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_gatsby_icon_130583.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-128.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/gimp-128.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/intellij_93550.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/1495/PNG/128/visualstudiocodeinsiders_103154.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/atom-128.png"></code>
+
+
+
+
 
 <!--
 **DaliaW/DaliaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
