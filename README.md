@@ -1,11 +1,11 @@
 ### Hey there!  👋
-<a href="https://www.linkedin.com/in/dalia-walid-63a74b190/">
+<a href="https://www.linkedin.com/in/dalia-walid-63a74b190/" target="_blank">
   <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.behance.net/daliaWalid/">
+<a href="https://www.behance.net/daliaWalid/" target="_blank">
   <img align="left" alt="Dalia's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" />
 </a>
-<a href="https://daliawalid.netlify.app/">
+<a href="https://daliawalid.netlify.app/" target="_blank">
   <img align="left" alt="Dalia's Website" width="22px" src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/globe-512.png" />
 </a>
 
