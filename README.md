@@ -63,7 +63,6 @@ besides I love listening to motivational music 🎵
 ![DaliaW's github stats](https://github-readme-stats.vercel.app/api?username=DaliaW&show_icons=true)
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaW&show_icons=true&layout=compact)](https://github.com/DaliaW/github-readme-stats)
 
 **:rocket: My recent projects:**
 
