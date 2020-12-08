@@ -60,19 +60,19 @@ besides I love listening to motivational music 🎵
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/intellij_93550.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/1495/PNG/128/visualstudiocodeinsiders_103154.png"></code>
 
-![DaliaW's github stats](https://github-readme-stats.vercel.app/api?username=DaliaW&show_icons=true&theme=radical)
+![DaliaW's github stats](https://github-readme-stats.vercel.app/api?username=DaliaW&show_icons=true)
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaW&show_icons=true&layout=compact&theme=radical)](https://github.com/DaliaW/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaW&show_icons=true&layout=compact)](https://github.com/DaliaW/github-readme-stats)
 
 **:rocket: My recent projects:**
 
 <a href="https://github.com/DaliaW/PersonalPortfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=PersonalPortfolio&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=PersonalPortfolio" />
 </a>
 
 <a href="https://github.com/DaliaW/Covid19-Tracker">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=Covid19-Tracker&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=Covid19-Tracker" />
 </a>
 
 
