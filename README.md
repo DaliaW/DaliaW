@@ -1,12 +1,15 @@
 ## Hey there!  👋
+<a href="https://twitter.com/DaliaWalid9">
+  <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-256.png" />
+</a>
 <a href="https://www.linkedin.com/in/dalia-walid-63a74b190/" target="_blank">
-  <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
 </a>
 <a href="https://www.behance.net/daliaWalid/" target="_blank">
-  <img align="left" alt="Dalia's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" />
+  <img align="left" alt="Dalia's Behance" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/101-behance-128.png" />
 </a>
 <a href="https://daliawalid.netlify.app/" target="_blank">
-  <img align="left" alt="Dalia's Website" width="22px" src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/globe-512.png" />
+  <img align="left" alt="Dalia's Website" width="22px" src="https://cdn2.iconfinder.com/data/icons/business-and-finance-107/64/32-512.png" />
 </a>
 
 <br />
