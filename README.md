@@ -59,10 +59,10 @@ besides I love listening to motivational music 🎵
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/gimp-128.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/intellij_93550.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/1495/PNG/128/visualstudiocodeinsiders_103154.png"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/atom-128.png"></code>
 
 ![DaliaW's github stats](https://github-readme-stats.vercel.app/api?username=DaliaW&show_icons=true&theme=radical)
-
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaW&show_icons=true&layout=compact&theme=radical)](https://github.com/DaliaW/github-readme-stats)
 
 **:rocket: My recent projects:**
 
@@ -74,7 +74,6 @@ besides I love listening to motivational music 🎵
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DaliaW&repo=Covid19-Tracker&theme=radical" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaliaW&layout=compact&theme=radical)](https://github.com/DaliaW/github-readme-stats)
 
 <!--
 **DaliaW/DaliaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
