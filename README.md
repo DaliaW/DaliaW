@@ -1,6 +1,6 @@
 ## Hey there!  👋
 <a href="https://twitter.com/DaliaWalid9">
-  <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-256.png" />
+  <img align="left" alt="Dalia's Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-256.png" />
 </a>
 <a href="https://www.linkedin.com/in/dalia-walid-63a74b190/" target="_blank">
   <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
