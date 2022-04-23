@@ -1,72 +1,66 @@
-## Hey there!  👋
-<a href="https://twitter.com/DaliaWalid9">
-  <img align="left" alt="Dalia's Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-256.png" />
-</a>
-<a href="https://www.linkedin.com/in/dalia-walid-63a74b190/" target="_blank">
-  <img align="left" alt="Dalia's LinkdeIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
-</a>
-<a href="https://www.behance.net/daliaWalid/" target="_blank">
-  <img align="left" alt="Dalia's Behance" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/101-behance-128.png" />
-</a>
-<a href="https://daliawalid.netlify.app/" target="_blank">
-  <img align="left" alt="Dalia's Website" width="22px" src="https://cdn2.iconfinder.com/data/icons/business-and-finance-107/64/32-512.png" />
-</a>
 
-<br />
-<br />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dalia</h1>
+<!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
 
-I'm [Dalia Walid!](https://daliawalid.netlify.app/) 🙋‍♀️ from Egypt, a senior computer Engineering student at the German University in Cairo👩‍🎓 
-
-and also a Web developer 👩‍💻.
-
-I have a strong passion for creating things that leave a positive impact on people,
-
-Things that aim for something better, and have a valuable meaning in it ✨.
-
-I'm eager to learn more and more about new technologies,
-
-and I have a strong determination to solve whatever problems in my way 💪.
-
-  <img align="right" alt="Dalia's avatar" width=350px height=400px src="https://user-images.githubusercontent.com/47950134/129251425-735e1f8b-d640-40ce-90b0-afe35d468dff.png" />
+<div align="center">
   
-I love developing websites and web applications 💁‍♀️,
-
-I enjoy drawing and painting 🎨. 
-
-besides I love listening to motivational music 🎵
-
-- ✍ I’m currently learning Three JS
-
-- 🔭 I’m currently working on web projects using React JS & Three JS
-
-- 📫<a> If you have any inquiries you can send me an email through: dalia.hewedy@gmail.com
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Computer+Engineering+Student;A+Passionate+Front-End+dev;AR%2FXR+Enthusiast;Interested+in+Open+CV;Artist;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
-</a>
+</div>
 
-**Languages and Tools:**
+      
+![svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
+      
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="left">
 
-<code><img height="30" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png"></code>
-<code><img height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-256.png"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-128.png"></code>
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699251-icon-24-file-sql-256.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="left"> <a href="https://twitter.com/daliawalid9" target="blank"><img src="https://img.shields.io/twitter/follow/daliawalid9?logo=twitter&style=for-the-badge" alt="daliawalid9" /></a> </p>
+</p>
 
-![DaliaW's github stats](https://github-readme-stats.vercel.app/api?username=DaliaW&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daliaw&label=Profile%20views&color=0e75b6&style=flat" alt="daliaw" /> </p>
 
-<!--
-**DaliaW/DaliaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>About me </i></b></h2>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Three Js, Unreal Engine, Java Spring Boot**
 
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💁‍ I love developing websites and web applications.
+
+- 🎨 I enjoy drawing and painting. 
+
+- 🎵 I love listening to lo-fi & ambient music.
+
+- 👨‍💻 All of my projects are available at [my portfolio](daliawalid.netlify.app)
+
+- 💬 Ask me about **React, Unity**
+
+- 📫 How to reach me **dalia.hewedy@gmail.com**
+
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1CYqharjxDlPxbNTEUNsOb5AWUuShDjOu/view?usp=sharing)
+
+<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align="center">
+<a href="https://twitter.com/daliawalid9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daliawalid9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dalia-walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalia-walid" height="30" width="40" /></a>
+<a href="https://www.behance.net/daliawalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="daliawalid" height="30" width="40" /></a>
+<a href="https://codepen.io/daliaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daliaw" height="30" width="40" /></a>
+
+
+
+
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p align="left"><i><b>My working tools</i></b>
+<p align="left">
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<h2> Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38px alt="Git"> </h2>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaw&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="daliaw" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daliaw&show_icons=true&locale=en&show_icons=true&theme=radical" alt="daliaw" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliaw&show_icons=true&theme=radical" alt="daliaw" /></p>
+
+<h2> Git profile Trophies <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="38px alt="Git trophies"> </h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliaw&show_icons=true&theme=radical" alt="daliaw" /></a> </p>
+
