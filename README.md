@@ -64,3 +64,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliaw&show_icons=true&theme=radical" alt="daliaw" /></a> </p>
 
+-----
+Credits: [Dalia Walid](https://github.com/DaliaW)
+
+Last Edited on: 23/04/2022
