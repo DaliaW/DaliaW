@@ -9,8 +9,8 @@
 </div>
 
       
-![svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
-
+<!-- ![svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
+ -->
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </div>
