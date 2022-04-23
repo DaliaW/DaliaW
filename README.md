@@ -10,9 +10,10 @@
 
       
 ![svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
-      
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="left">
 
+<div align="left">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</div>
 <p align="left"> <a href="https://twitter.com/daliawalid9" target="blank"><img src="https://img.shields.io/twitter/follow/daliawalid9?logo=twitter&style=for-the-badge" alt="daliawalid9" /></a> </p>
 </p>
 
