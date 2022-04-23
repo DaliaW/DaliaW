@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Computer+Engineering+Student;A+Passionate+Front-End+dev;AR%2FXR+Enthusiast;Interested+in+Open+CV;Artist;Game-dev+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Computer+Engineering+Student;A+Passionate+Front-End+dev;UI%2FUX+Designer;AR%2FXR+Enthusiast;Interested+in+Open+CV;Artist;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
