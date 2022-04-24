@@ -33,7 +33,7 @@
 
 - 🎵 I love listening to lo-fi & ambient music.
 
-- 👨‍💻 All of my projects are available at [my portfolio](daliawalid.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://daliawalid.netlify.app/)
 
 - 💬 Ask me about **React, Unity**
 
