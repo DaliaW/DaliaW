@@ -49,9 +49,6 @@
 <a href="https://codepen.io/daliaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daliaw" height="30" width="40" /></a>
 
 
-
-
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"><i><b>My working tools</i></b>
 <p align="left">
@@ -59,15 +56,18 @@
 
 <h2> Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38px alt="Git"> </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaw&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="daliaw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daliaw&show_icons=true&locale=en&show_icons=true&theme=radical" alt="daliaw" /></p>
+| <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daliaw&show_icons=true&locale=en&show_icons=true&theme=dracula" alt="daliaw" /></p>   | 
+|----------|
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliaw&show_icons=true&theme=dracula" alt="daliaw" />
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaw&show_icons=true&locale=en&layout=compact&show_icons=true&theme=dracula" alt="daliaw" /></p> | 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=daliaw&theme=redical&hide_border=true&area=true)|
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliaw&show_icons=true&theme=radical" alt="daliaw" /></p>
+
 
 <h2> Git profile Trophies <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="38px alt="Git trophies"> </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliaw&show_icons=true&theme=radical" alt="daliaw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliaw&show_icons=true&theme=dracula" alt="daliaw" /></a> </p>
 
 -----
 Credits: [Dalia Walid](https://github.com/DaliaW)
