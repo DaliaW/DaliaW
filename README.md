@@ -74,10 +74,10 @@
 </div>
   
 
-<div id="badges"  align="center">
+<!-- <div id="badges"  align="center">
 
 <img  height=' 270px' src="https://activity-graph.herokuapp.com/graph?username=daliaw&bg_color=282A36&color=00ffff&line=DD6387&point=ffffff&area=true&hide_border=false"/>
-</div>
+</div> -->
 
 <h2><i><b> Git profile Trophies </b></i></h2>
 <!-- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="38px alt="Git trophies">  -->
