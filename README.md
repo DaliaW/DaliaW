@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CS+Engineering+masters+student;Teaching+Assistant+@+GUC;AR%2FXR+Enthusiast;Game-dev+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+masters+student;Teaching+Assistant+@+GUC;AR%2FMR+Enthusiast;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
