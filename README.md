@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+masters+student;Teaching+Assistant+@+GUC;AR%2FMR+Enthusiast;Game-dev+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+MSc+student;Teaching+Assistant+@+GUC;Interested+in+XR+tech;Interested+in+Game+dev)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,9 +16,9 @@
  -->
 <h2 align="left"><i><b>About me </i></b></h2>
 
-- 🌱 I’m currently learning **Three Js, Unreal Engine, Java Spring Boot**
+- 🌱 I’m currently improving my skills & learning **Three Js, Unity, React, Java Spring Boot**
 
-- 💁‍ I love developing websites and web applications.
+- 💁‍ I love developing web apps.
 
 - 🎨 I enjoy drawing and painting. 
 
